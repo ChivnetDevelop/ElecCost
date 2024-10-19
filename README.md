@@ -1,11 +1,11 @@
 # ElecCost
 ElecCost App for Android Privacy Policy
 
-Statement Regarding "ElecCost App for Android" Privacy Policy
+Statement Regarding "ElecCost" / "ElecCost App for Android" Privacy Policy
 
 This app is available on Google Play in selected Android versions.
 
-This app is provided at no cost and is intended for use as is.
+This app is provided at no cost and is intended for use as is and not intended for professional or commercial purposes. 
 
 No liability is taken for any loss, direct or indirect, you experience as a result of relying wholly on the functionality of this app.
 
@@ -17,7 +17,7 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 
 However, please be aware that no method of data transmission or storage is 100% secure.
 
-All data (app preferences (like theme, etc.) and alarms) created by you (the user) are stored on your device only, and can be simply erased by clearing the app's data and/or uninstalling it.
+All data and settings like kw-hr costs and hours etc created by you (the user) are stored on your device only, and can be simply erased by clearing the app's data, cache and/or uninstalling it.
 
 The app does use third-party services that may collect information used to identify you. A link to the privacy policy of third-party service providers (known to me) used by the app are -: Google Play Services (https://www.google.com/policies/privacy/)
 
@@ -27,4 +27,4 @@ If you find any security vulnerability that has been inadvertently caused by me,
 
 This Privacy Policy may be updated from time to time. Any changes will be posted in this document, and the revised policy will be effective when it is posted.
 
-Yours sincerely, chivnetdevelop@gmail.com 15th September 2023
+Yours sincerely, chivnet@outlook.com 18th October 2024
