@@ -1,5 +1,7 @@
 # ElecCost App - Privacy and Data Collection Policy
 
+<img width="200" height="200" alt="ic_launcher" src="https://github.com/user-attachments/assets/72020d7f-b3e4-45bd-8204-fb3da11cc10b" />
+
 General:        
 This app is available on the Google Play Store (the "Store") in selected Android versions. This privacy policy outlines how 'ElecCost'app (the "App"), handles user information and other relevant details concerning the App. In developing this App there is a commitment to ensuring your privacy and transparency regarding data practices. This App does not knowingly collect any personally identifiable information from users. This App is a productivity tool / calculator type app. No in-app purchases are required with this App. This App is standalone and free and does not require an internet connection to operate. 
 The App does not require an account or registration, contains no in-app purchases, and does not display advertisements.
